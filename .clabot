@@ -23,7 +23,8 @@
 	"@mmonfils",
 	"@jacobj10",
 	"@toomyem",
-	"@martinbpeters"
+	"@martinbpeters",
+	"@jacalata"
 ],
 	"message": "We require contributors to sign our Contributor License Agreement, and we don\"t have {{usersWithoutCLA}} on file. In order for us to merge your code, please send us a signed copy of the CLA at http://tableau.github.io/contributing.html.",
 	"label": "everyone-here-is-awesome",
