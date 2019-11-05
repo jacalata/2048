@@ -1,5 +1,5 @@
 {
-	"contributors": "https://api.github.com/repos/jacalata/contributors/patch-1/clabot.json",
+	"contributors": ["jacalata"],
 	"message": "We require contributors to sign our Contributor License Agreement, and we don\"t have {{usersWithoutCLA}} on file. In order for us to review and merge your code, please contact @FriendlyAdmin to get yourself added.",
 	"label": "unsigned",
 	"recheckComment": "how about now?!?!"
