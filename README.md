@@ -3,7 +3,7 @@ A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.
 
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
 
-### Contributions
+### Contributionsdfds
 
  - [TimPetricola](https://github.com/TimPetricola) added best score storage
  - [chrisprice](https://github.com/chrisprice) added custom code for swipe handling on mobile
